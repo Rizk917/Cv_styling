@@ -46,7 +46,7 @@ content: 'Main';
 
   }
   [data-skill="5"] span{
-    width:50%;
+    width:80%;
     background-color: red;
     display: block;
     height: 100%;
@@ -54,7 +54,7 @@ content: 'Main';
     color: white;   
 }
 [data-skill="3"] span{
-    width: 30%;
+    width: 75%;
     background-color: red;
     display: block;
     height: 100%;
